@@ -124,3 +124,11 @@ Only add complexity when V0 measurements justify it:
 - a lightweight learned image embedding if HOG is insufficient.
 
 The project should remain disposable and easy to understand: reliability before architecture.
+
+<!-- cookigram-ecosystem:start -->
+## Écosystème CookiGram
+
+**Ce dépôt :** utilitaire local-first indépendant du produit culinaire principal. Il reste volontairement petit, privé par défaut côté données caméra et sans dépendance aux autres runtimes CookiGram.
+
+Repères : [catalogue public](https://github.com/CookiGram/cookigram) · [moteur](https://github.com/CookiGram/cookigram-core) · [contrat](https://github.com/CookiGram/cookigram-contract) · [CookiList](https://github.com/CookiGram/shopping-list) · [Home](https://github.com/CookiGram/home) · [MCP produit](https://github.com/CookiGram/cookigram-mcp) · [Bandleader](https://github.com/CookiGram/Bandleader) · [Orchestra](https://github.com/CookiGram/Orchestra) · [Journey](https://github.com/CookiGram/cookigram-journey).
+<!-- cookigram-ecosystem:end -->
